@@ -13,6 +13,10 @@ import java.text.ParseException;
 import java.util.Collection;
 import java.util.LinkedList;
 
+/**
+ * @author chakalkin
+ *
+ */
 public class SearchGUI extends JFrame {
 
 	private static final long serialVersionUID = 1L;
